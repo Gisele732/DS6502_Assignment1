@@ -1,0 +1,374 @@
+Age,Gender,Education Level,Job Title,Job Level,Years of Experience,Salary
+32,Male,Bachelor's,Software Engineer,Other,5,90000
+28,Female,Master's,Data Analyst,Other,3,65000
+45,Male,PhD,Senior Manager,Manager,15,150000
+36,Female,Bachelor's,Sales Associate,Other,7,60000
+52,Male,Master's,Director,Director,20,200000
+29,Male,Bachelor's,Marketing Analyst,Other,2,55000
+42,Female,Master's,Product Manager,Manager,12,120000
+31,Male,Bachelor's,Sales Manager,Manager,4,80000
+26,Female,Bachelor's,Marketing Coordinator,Other,1,45000
+38,Male,PhD,Senior Scientist,Senior,10,110000
+29,Male,Master's,Software Developer,Other,3,75000
+48,Female,Bachelor's,HR Manager,Manager,18,140000
+35,Male,Bachelor's,Financial Analyst,Other,6,65000
+40,Female,Master's,Project Manager,Manager,14,130000
+27,Male,Bachelor's,Customer Service Rep,Other,2,40000
+44,Male,Bachelor's,Operations Manager,Manager,16,125000
+33,Female,Master's,Marketing Manager,Manager,7,90000
+39,Male,PhD,Senior Engineer,Senior,12,115000
+25,Female,Bachelor's,Data Entry Clerk,Other,0,35000
+51,Male,Bachelor's,Sales Director,Director,22,180000
+34,Female,Master's,Business Analyst,Other,5,80000
+47,Male,Master's,VP of Operations,Other,19,190000
+30,Male,Bachelor's,IT Support,Other,2,50000
+36,Female,Bachelor's,Recruiter,Other,9,60000
+41,Male,Master's,Financial Manager,Manager,13,140000
+28,Female,Bachelor's,Social Media Specialist,Other,3,45000
+37,Female,Master's,Software Manager,Manager,11,110000
+24,Male,Bachelor's,Junior Developer,Junior,1,40000
+43,Female,PhD,Senior Consultant,Senior,15,140000
+33,Male,Master's,Product Designer,Other,6,90000
+50,Male,Bachelor's,CEO,C-Suite,25,250000
+31,Female,Bachelor's,Accountant,Other,4,55000
+29,Male,Master's,Data Scientist,Other,3,75000
+39,Female,Bachelor's,Marketing Specialist,Other,10,65000
+46,Male,PhD,Senior Manager,Manager,20,170000
+27,Male,Bachelor's,Technical Writer,Other,2,45000
+35,Female,Bachelor's,HR Generalist,Other,7,60000
+42,Male,Master's,Project Engineer,Other,14,115000
+26,Female,Bachelor's,Customer Success Rep,Other,1,40000
+49,Male,Bachelor's,Sales Executive,Other,21,160000
+34,Female,Master's,UX Designer,Other,5,80000
+48,Male,Master's,Operations Director,Director,18,190000
+30,Male,Bachelor's,Network Engineer,Other,3,60000
+36,Female,Bachelor's,Administrative Assistant,Other,8,45000
+41,Male,Master's,Strategy Consultant,Other,13,130000
+28,Female,Bachelor's,Copywriter,Other,2,40000
+32,Male,Bachelor's,Account Manager,Manager,5,75000
+45,Female,Master's,Director of Marketing,Director,16,180000
+38,Male,PhD,Senior Scientist,Senior,11,120000
+25,Male,Bachelor's,Help Desk Analyst,Other,0,35000
+51,Female,Bachelor's,Customer Service Manager,Manager,22,130000
+33,Male,Master's,Business Intelligence Analyst,Other,7,85000
+40,Female,Bachelor's,Event Coordinator,Other,12,60000
+47,Male,Master's,VP of Finance,Other,19,200000
+29,Female,Bachelor's,Graphic Designer,Other,3,50000
+36,Male,Bachelor's,Sales Manager,Manager,9,95000
+27,Female,Master's,UX Researcher,Other,2,65000
+43,Male,PhD,Senior Engineer,Senior,17,140000
+30,Female,Bachelor's,Social Media Manager,Manager,4,55000
+35,Male,Master's,Product Manager,Manager,7,105000
+51,Female,Master's,Director of Operations,Director,23,170000
+29,Male,Bachelor's,Marketing Analyst,Other,3,50000
+40,Female,Bachelor's,HR Manager,Manager,12,80000
+47,Male,PhD,Senior Data Scientist,Senior,21,180000
+26,Male,Bachelor's,Junior Accountant,Junior,1,35000
+38,Female,Master's,Digital Marketing Manager,Manager,10,90000
+46,Male,Bachelor's,IT Manager,Manager,19,120000
+31,Female,Bachelor's,Customer Service Representative,Other,5,45000
+34,Male,Master's,Business Development Manager,Manager,8,90000
+49,Female,Master's,Senior Financial Analyst,Senior,18,150000
+33,Male,Bachelor's,Web Developer,Other,6,65000
+39,Female,Bachelor's,Recruiter,Other,11,70000
+45,Male,PhD,Research Director,Director,16,190000
+28,Male,Bachelor's,Technical Support Specialist,Other,2,40000
+42,Female,Master's,Creative Director,Director,14,120000
+37,Male,Bachelor's,Project Manager,Manager,10,95000
+50,Female,Bachelor's,Operations Manager,Manager,22,160000
+32,Male,Master's,Senior Software Engineer,Senior,6,100000
+48,Female,Master's,Human Resources Director,Director,20,180000
+30,Female,Bachelor's,Content Marketing Manager,Manager,3,55000
+36,Male,Bachelor's,Technical Recruiter,Other,8,70000
+41,Female,Master's,Data Analyst,Other,13,80000
+25,Male,Bachelor's,Sales Representative,Other,0,30000
+52,Male,PhD,Chief Technology Officer,C-Suite,24,250000
+29,Female,Bachelor's,Junior Designer,Junior,2,40000
+34,Female,Master's,Financial Advisor,Other,10,95000
+27,Male,Bachelor's,Junior Account Manager,Manager,2,45000
+40,Female,Bachelor's,HR Generalist,Other,15,80000
+46,Male,Master's,Senior Project Manager,Manager,21,135000
+31,Female,Bachelor's,Marketing Coordinator,Other,6,55000
+36,Male,PhD,Principal Scientist,Other,11,120000
+29,Female,Bachelor's,Sales Associate,Other,3,40000
+43,Male,Bachelor's,Supply Chain Manager,Manager,18,105000
+52,Female,Master's,Senior Marketing Manager,Manager,25,170000
+33,Male,Bachelor's,Business Analyst,Other,7,75000
+39,Female,Bachelor's,Training Specialist,Other,12,65000
+47,Male,PhD,Research Scientist,Other,22,160000
+26,Male,Bachelor's,Junior Software Developer,Junior,1,35000
+38,Female,Master's,Public Relations Manager,Manager,10,90000
+45,Male,Bachelor's,Operations Analyst,Other,20,110000
+31,Female,Bachelor's,Event Coordinator,Other,5,45000
+35,Male,Master's,Product Marketing Manager,Manager,8,95000
+49,Female,Master's,Senior HR Manager,Manager,19,150000
+33,Male,Bachelor's,Junior Web Developer,Junior,5,50000
+39,Female,Master's,Senior Project Coordinator,Senior,13,80000
+44,Male,PhD,Chief Data Officer,C-Suite,16,220000
+30,Female,Bachelor's,Digital Content Producer,Other,3,50000
+36,Male,Bachelor's,IT Support Specialist,Other,7,60000
+41,Female,Master's,Senior Marketing Analyst,Senior,14,100000
+28,Male,Bachelor's,Customer Success Manager,Manager,2,40000
+42,Female,Master's,Senior Graphic Designer,Senior,15,110000
+37,Male,Bachelor's,Software Project Manager,Manager,9,95000
+50,Female,Bachelor's,Supply Chain Analyst,Other,22,130000
+32,Male,Master's,Senior Business Analyst,Senior,6,90000
+23,Female,Bachelor's,Junior Marketing Analyst,Junior,0.5,35000
+31,Male,Master's,Senior Financial Analyst,Senior,6,95000
+40,Female,Bachelor's,Office Manager,Manager,15,65000
+48,Male,PhD,Principal Engineer,Other,20,170000
+29,Female,Bachelor's,Junior HR Generalist,Junior,3,45000
+35,Male,Master's,Senior Product Manager,Manager,10,120000
+42,Female,Bachelor's,Sales Manager,Manager,17,100000
+53,Male,Master's,Director of Marketing,Director,25,180000
+33,Female,Bachelor's,Junior Operations Analyst,Junior,5,50000
+38,Male,Bachelor's,Customer Service Manager,Manager,11,80000
+44,Female,PhD,Senior Scientist,Senior,16,140000
+26,Male,Bachelor's,Junior Accountant,Junior,2,40000
+37,Female,Master's,Senior HR Generalist,Senior,9,95000
+45,Male,Bachelor's,Sales Operations Manager,Manager,18,110000
+32,Female,Bachelor's,Marketing Coordinator,Other,4,50000
+34,Male,Master's,Senior Software Developer,Senior,8,105000
+50,Female,Master's,Director of Operations,Director,21,160000
+29,Male,Bachelor's,Junior Web Designer,Junior,3,45000
+40,Female,Master's,Senior Training Specialist,Senior,12,100000
+47,Male,PhD,Senior Research Scientist,Senior,22,160000
+27,Male,Bachelor's,Junior Sales Representative,Junior,1,35000
+39,Female,Bachelor's,Administrative Assistant,Other,10,55000
+46,Male,Master's,Senior Project Manager,Manager,19,140000
+30,Female,Bachelor's,Junior Marketing Manager,Manager,4,50000
+36,Male,Bachelor's,Junior Data Analyst,Junior,7,60000
+43,Female,Master's,Senior Product Marketing Manager,Manager,14,120000
+28,Male,Bachelor's,Junior Business Analyst,Junior,2,40000
+41,Female,Master's,Senior Marketing Manager,Manager,13,110000
+33,Male,Bachelor's,Junior Software Developer,Junior,5,50000
+47,Male,Bachelor's,Senior Sales Manager,Manager,20,135000
+25,Female,Master's,Junior Marketing Specialist,Junior,1.5,40000
+34,Male,Bachelor's,Senior Business Analyst,Senior,8,90000
+42,Female,PhD,Senior Data Scientist,Senior,16,150000
+31,Male,Bachelor's,Junior Project Manager,Manager,4,60000
+38,Female,Bachelor's,Senior Accountant,Senior,10,80000
+45,Male,Master's,Director of Sales,Director,19,175000
+29,Female,Bachelor's,Junior Recruiter,Junior,3,45000
+36,Male,Master's,Senior Business Development Manager,Manager,11,120000
+43,Female,PhD,Senior Product Designer,Senior,18,140000
+26,Male,Bachelor's,Junior Customer Support Specialist,Junior,2,35000
+37,Female,Master's,Senior Marketing Analyst,Senior,9,95000
+44,Male,Bachelor's,Senior IT Support Specialist,Senior,14,110000
+32,Female,Bachelor's,Junior Financial Analyst,Junior,5,50000
+33,Male,Master's,Senior Operations Manager,Manager,7,115000
+51,Female,PhD,Director of Human Resources,Director,23,185000
+28,Male,Bachelor's,Junior Software Engineer,Junior,2,40000
+39,Female,Bachelor's,Senior Sales Representative,Senior,12,90000
+48,Male,Master's,Director of Product Management,Director,21,175000
+30,Female,Bachelor's,Junior Copywriter,Junior,3,45000
+35,Male,Bachelor's,Senior Marketing Coordinator,Senior,7,80000
+41,Female,Master's,Senior Human Resources Manager,Manager,13,120000
+27,Male,Bachelor's,Junior Business Development Associate,Junior,1.5,35000
+40,Female,Bachelor's,Senior Account Manager,Manager,14,110000
+46,Male,PhD,Senior Researcher,Senior,18,150000
+31,Female,Bachelor's,Junior HR Coordinator,Junior,4,50000
+34,Male,Master's,Senior Software Engineer,Senior,9,105000
+50,Female,Master's,Director of Finance,Director,20,180000
+29,Male,Bachelor's,Junior Marketing Coordinator,Junior,2,40000
+43,Male,Bachelor's,Senior Project Manager,Manager,16,140000
+26,Female,Master's,Junior Data Scientist,Junior,1.5,45000
+35,Male,Bachelor's,Senior Operations Analyst,Senior,7,85000
+42,Female,PhD,Senior Marketing Manager,Manager,18,140000
+31,Male,Bachelor's,Junior Accountant,Junior,4,50000
+38,Female,Bachelor's,Senior Human Resources Coordinator,Senior,10,80000
+46,Male,Master's,Director of Operations,Director,20,170000
+29,Female,Bachelor's,Junior Sales Representative,Junior,2,40000
+37,Male,Master's,Senior Business Analyst,Senior,9,105000
+44,Female,PhD,Senior UX Designer,Senior,15,145000
+27,Male,Bachelor's,Junior Product Manager,Manager,2,40000
+36,Female,Bachelor's,Senior Marketing Specialist,Senior,8,85000
+43,Male,Bachelor's,Senior IT Project Manager,Manager,14,130000
+33,Female,Master's,Senior Financial Analyst,Senior,6,95000
+34,Male,Bachelor's,Senior Quality Assurance Analyst,Senior,9,100000
+50,Female,PhD,Director of Sales and Marketing,Director,22,180000
+28,Male,Bachelor's,Junior Operations Analyst,Junior,1.5,35000
+39,Female,Bachelor's,Senior Account Executive,Senior,12,95000
+47,Male,Master's,Director of Business Development,Director,19,170000
+30,Female,Bachelor's,Junior Social Media Manager,Manager,3,45000
+34,Male,Bachelor's,Senior Product Manager,Manager,7,95000
+40,Female,Master's,Senior Human Resources Specialist,Senior,13,120000
+28,Male,Bachelor's,Junior Business Analyst,Junior,2,40000
+41,Female,Bachelor's,Senior Marketing Coordinator,Senior,11,90000
+45,Male,PhD,Senior Data Analyst,Senior,17,155000
+32,Female,Bachelor's,Junior Account Manager,Manager,5,55000
+35,Male,Master's,Senior Software Developer,Senior,9,110000
+49,Female,Master's,Director of Human Capital,Director,21,180000
+30,Male,Bachelor's,Junior Advertising Coordinator,Junior,3,45000
+44,Male,Bachelor's,Senior Sales Manager,Manager,16,130000
+27,Female,Master's,Junior UX Designer,Junior,1.5,45000
+36,Male,Bachelor's,Senior Accountant,Senior,7,90000
+41,Female,PhD,Senior Marketing Director,Senior,17,160000
+31,Male,Bachelor's,Junior HR Generalist,Junior,4,50000
+39,Female,Bachelor's,Senior Operations Manager,Manager,10,120000
+47,Male,Master's,Director of Finance,Director,20,170000
+30,Female,Bachelor's,Junior Marketing Coordinator,Junior,2,40000
+38,Male,Master's,Senior IT Consultant,Senior,9,110000
+45,Female,PhD,Senior Product Designer,Senior,15,150000
+28,Male,Bachelor's,Junior Business Development Associate,Junior,2,40000
+35,Female,Bachelor's,Senior Marketing Analyst,Senior,8,85000
+44,Male,Bachelor's,Senior Software Engineer,Senior,14,130000
+34,Female,Master's,Senior Financial Advisor,Senior,6,100000
+35,Male,Bachelor's,Senior Project Coordinator,Senior,9,95000
+50,Female,PhD,Director of Operations,Director,22,180000
+29,Male,Bachelor's,Junior Business Operations Analyst,Junior,1.5,35000
+40,Female,Bachelor's,Senior Sales Representative,Senior,12,100000
+48,Male,Master's,Director of Marketing,Director,19,170000
+31,Female,Bachelor's,Junior Social Media Specialist,Junior,3,45000
+33,Male,Bachelor's,Senior Product Development Manager,Manager,7,100000
+42,Female,Master's,Senior Human Resources Manager,Manager,13,140000
+28,Male,Bachelor's,Junior Financial Analyst,Junior,2,40000
+40,Female,Bachelor's,Senior Marketing Manager,Manager,11,105000
+46,Male,PhD,Senior Data Scientist,Senior,18,160000
+33,Female,Bachelor's,Junior Operations Manager,Manager,5,70000
+37,Male,Master's,Senior Software Architect,Senior,9,120000
+51,Female,Master's,Director of Human Resources,Director,21,190000
+30,Male,Bachelor's,Junior Marketing Specialist,Junior,3,45000
+43,Male,Bachelor's,Senior Project Manager,Manager,15,120000
+27,Female,Master's,Junior Research Scientist,Junior,1.5,50000
+35,Male,Bachelor's,Senior Operations Analyst,Senior,8,85000
+42,Female,PhD,Senior Marketing Manager,Manager,13,140000
+32,Male,Bachelor's,Junior Sales Representative,Junior,3,45000
+37,Female,Bachelor's,Senior Financial Analyst,Senior,9,100000
+45,Male,Master's,Senior Software Developer,Senior,16,140000
+33,Female,Bachelor's,Junior Operations Analyst,Junior,5,70000
+39,Male,Bachelor's,Senior Marketing Specialist,Senior,10,120000
+44,Female,PhD,Senior HR Manager,Manager,18,160000
+29,Male,Bachelor's,Junior Business Analyst,Junior,1.5,40000
+38,Female,Bachelor's,Senior Product Manager,Manager,10,120000
+46,Male,PhD,Senior Data Analyst,Senior,19,150000
+34,Female,Bachelor's,Junior Marketing Analyst,Junior,6,70000
+36,Male,Bachelor's,Senior Operations Manager,Manager,8,95000
+49,Female,Master's,Director of Marketing,Director,21,180000
+31,Male,Bachelor's,Junior Financial Analyst,Junior,3,50000
+41,Female,Bachelor's,Senior Project Coordinator,Senior,11,95000
+47,Male,Master's,Director of Operations,Director,20,170000
+30,Female,Bachelor's,Junior Marketing Coordinator,Junior,2,40000
+38,Male,Master's,Senior IT Consultant,Senior,9,110000
+45,Female,PhD,Senior Product Designer,Senior,15,150000
+28,Male,Bachelor's,Junior Business Development Associate,Junior,2,40000
+35,Female,Bachelor's,Senior Marketing Analyst,Senior,8,85000
+44,Male,Bachelor's,Senior Software Engineer,Senior,14,130000
+34,Female,Master's,Senior Financial Advisor,Senior,6,100000
+35,Male,Bachelor's,Senior Project Coordinator,Senior,9,95000
+50,Female,PhD,Director of Operations,Director,22,180000
+29,Male,Bachelor's,Junior Business Operations Analyst,Junior,1.5,350
+37,Female,Bachelor's,Senior Financial Manager,Manager,10,120000
+46,Male,PhD,Senior Data Scientist,Senior,18,160000
+31,Female,Bachelor's,Junior Marketing Coordinator,Junior,3,50000
+42,Male,Bachelor's,Senior Operations Manager,Manager,12,110000
+29,Female,Bachelor's,Junior Sales Representative,Junior,1.5,40000
+36,Male,Bachelor's,Senior Marketing Specialist,Senior,8,95000
+44,Female,Master's,Senior HR Specialist,Senior,15,140000
+33,Male,Bachelor's,Junior Operations Manager,Manager,4,60000
+39,Female,Bachelor's,Senior Marketing Coordinator,Senior,9,110000
+45,Male,PhD,Senior Data Engineer,Senior,16,150000
+32,Female,Bachelor's,Junior Marketing Manager,Manager,4,60000
+37,Male,Bachelor's,Senior Financial Analyst,Senior,8,90000
+47,Female,Master's,Director of Marketing,Director,20,180000
+30,Male,Bachelor's,Junior Business Analyst,Junior,2,40000
+38,Female,Bachelor's,Senior Project Manager,Manager,9,120000
+46,Male,PhD,Senior Data Analyst,Senior,17,160000
+34,Female,Bachelor's,Junior Financial Analyst,Junior,5,70000
+36,Male,Bachelor's,Senior Product Manager,Manager,8,95000
+49,Female,Master's,Director of Operations,Director,21,180000
+31,Male,Bachelor's,Junior Operations Analyst,Junior,3,50000
+41,Female,Bachelor's,Senior Project Coordinator,Senior,11,95000
+47,Male,Master's,Director of Marketing,Director,19,170000
+29,Female,Bachelor's,Junior Business Development Associate,Junior,1.5,35000
+35,Male,Bachelor's,Senior Financial Manager,Manager,9,100000
+44,Female,PhD,Senior Product Designer,Senior,15,150000
+33,Male,Bachelor's,Junior Business Analyst,Junior,4,60000
+35,Female,Bachelor's,Senior Marketing Analyst,Senior,8,85000
+44,Male,Bachelor's,Senior Software Engineer,Senior,13,130000
+32,Male,Bachelor's,Junior Product Manager,Manager,4,65000
+38,Female,Bachelor's,Senior Business Analyst,Senior,10,110000
+49,Male,PhD,Director of Operations,Director,21,180000
+29,Female,Bachelor's,Junior Marketing Specialist,Junior,2,40000
+35,Male,Bachelor's,Senior Business Development Manager,Manager,7,90000
+45,Female,Master's,Senior HR Manager,Manager,14,140000
+33,Male,Bachelor's,Junior Financial Analyst,Junior,4,60000
+40,Female,Bachelor's,Senior Marketing Manager,Manager,12,130000
+44,Male,PhD,Senior Data Scientist,Senior,16,160000
+30,Female,Bachelor's,Junior Operations Coordinator,Junior,2,40000
+37,Male,Bachelor's,Senior Marketing Analyst,Senior,9,100000
+48,Female,Master's,Director of HR,Director,20,180000
+31,Male,Bachelor's,Junior Project Manager,Manager,3,55000
+38,Female,Bachelor's,Senior Operations Coordinator,Senior,9,120000
+45,Male,PhD,Senior Data Engineer,Senior,16,150000
+33,Female,Bachelor's,Junior Marketing Manager,Manager,5,70000
+36,Male,Bachelor's,Senior Business Analyst,Senior,8,95000
+49,Female,Master's,Director of Marketing,Director,21,180000
+31,Male,Bachelor's,Junior Operations Analyst,Junior,3,50000
+42,Female,Bachelor's,Senior Project Manager,Manager,12,120000
+47,Male,Master's,Director of Marketing,Director,19,170000
+29,Female,Bachelor's,Junior Business Development Associate,Junior,1.5,35000
+35,Male,Bachelor's,Senior Financial Manager,Manager,9,100000
+44,Female,PhD,Senior Product Designer,Senior,15,150000
+33,Male,Bachelor's,Junior Business Analyst,Junior,4,60000
+35,Female,Bachelor's,Senior Marketing Analyst,Senior,8,85000
+44,Male,Bachelor's,Senior Software Engineer,Senior,13,130000
+34,Female,Master's,Senior Financial Advisor,Senior,6,80000
+36,Male,Bachelor's,Senior Marketing Specialist,Senior,8,95000
+30,Female,Bachelor's,Junior HR Coordinator,Junior,2,40000
+37,Male,Bachelor's,Senior Business Development Manager,Manager,10,120000
+45,Female,Master's,Senior Marketing Manager,Manager,16,160000
+32,Male,Bachelor's,Junior Financial Advisor,Junior,4,65000
+39,Female,Bachelor's,Senior Project Manager,Manager,12,130000
+47,Male,PhD,Director of Engineering,Director,20,180000
+29,Female,Bachelor's,Junior Marketing Analyst,Junior,2,40000
+36,Male,Bachelor's,Senior Operations Manager,Manager,9,100000
+43,Female,PhD,Senior Data Scientist,Senior,15,150000
+32,Male,Bachelor's,Junior Marketing Coordinator,Junior,3,55000
+38,Female,Bachelor's,Senior Business Analyst,Senior,10,110000
+48,Male,Master's,Director of Marketing,Director,21,180000
+31,Female,Bachelor's,Junior Business Development Associate,Junior,3,50000
+40,Male,Bachelor's,Senior Financial Analyst,Senior,12,130000
+45,Female,PhD,Senior UX Designer,Senior,16,160000
+33,Male,Bachelor's,Junior Product Manager,Manager,4,60000
+36,Female,Bachelor's,Senior Marketing Manager,Manager,8,95000
+47,Male,Master's,Director of Operations,Director,19,170000
+29,Female,Bachelor's,Junior Project Manager,Manager,2,40000
+34,Male,Bachelor's,Senior Operations Coordinator,Senior,7,90000
+44,Female,PhD,Senior Business Analyst,Senior,15,150000
+33,Male,Bachelor's,Junior Marketing Specialist,Junior,5,70000
+35,Female,Bachelor's,Senior Financial Manager,Manager,8,90000
+43,Male,Master's,Director of Marketing,Director,18,170000
+31,Female,Bachelor's,Junior Financial Analyst,Junior,3,50000
+41,Male,Bachelor's,Senior Product Manager,Manager,14,150000
+44,Female,PhD,Senior Data Engineer,Senior,16,160000
+33,Male,Bachelor's,Junior Business Analyst,Junior,4,60000
+35,Female,Bachelor's,Senior Marketing Analyst,Senior,8,85000
+45,Male,Master's,Director of Engineering,Director,19,180000
+28,Female,Bachelor's,Junior Operations Manager,Manager,1,35000
+36,Male,Bachelor's,Senior Business Development Manager,Manager,8,110000
+44,Female,PhD,Senior Data Scientist,Senior,16,160000
+31,Male,Bachelor's,Junior Marketing Coordinator,Junior,3,55000
+38,Female,Bachelor's,Senior Business Analyst,Senior,10,110000
+48,Male,Master's,Director of Marketing,Director,21,180000
+31,Female,Bachelor's,Junior Business Development Associate,Junior,3,50000
+40,Male,Bachelor's,Senior Financial Analyst,Senior,12,130000
+45,Female,PhD,Senior UX Designer,Senior,16,160000
+33,Male,Bachelor's,Junior Product Manager,Manager,4,60000
+36,Female,Bachelor's,Senior Marketing Manager,Manager,8,95000
+47,Male,Master's,Director of Operations,Director,19,170000
+29,Female,Bachelor's,Junior Project Manager,Manager,2,40000
+34,Male,Bachelor's,Senior Operations Coordinator,Senior,7,90000
+44,Female,PhD,Senior Business Analyst,Senior,15,150000
+33,Male,Bachelor's,Junior Marketing Specialist,Junior,5,70000
+35,Female,Bachelor's,Senior Financial Manager,Manager,8,90000
+43,Male,Master's,Director of Marketing,Director,18,170000
+31,Female,Bachelor's,Junior Financial Analyst,Junior,3,50000
+41,Male,Bachelor's,Senior Product Manager,Manager,14,150000
+44,Female,PhD,Senior Data Engineer,Senior,16,160000
+33,Male,Bachelor's,Junior Business Analyst,Junior,4,60000
+35,Female,Bachelor's,Senior Marketing Analyst,Senior,8,85000
+43,Male,Master's,Director of Operations,Director,19,170000
+29,Female,Bachelor's,Junior Project Manager,Manager,2,40000
+34,Male,Bachelor's,Senior Operations Coordinator,Senior,7,90000
+44,Female,PhD,Senior Business Analyst,Senior,15,150000
