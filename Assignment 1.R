@@ -9,10 +9,13 @@ summary(SalaryData)
 
 #function to calculate the mode of different columns
 ModeSalary <- names(sort(-table(SalaryData$Salary)))[1]
+ModeSalary
 ModeAge <- names(sort(-table(SalaryData$Age)))[1]
+ModeAge
 
 #Creating some graphs
 library(ggplot2)
+library(tidyverse)
 
 #Visualising gender, Education and job distribution using pie charts
 # Pie plots with ggplot2
@@ -30,11 +33,6 @@ GenderDistributionPie <- ggplot(data=SalaryData, aes(x="", fill=Gender)) +
   scale_fill_manual(values = c("#FFB6C1","cadetblue1"))+
   theme_void()
 GenderDistributionPie
-
-#Let's compare female and male education levels: 
-#We create two subsets, one for each gender
-FemaleEmployees <- subset(SalaryData, Gender == "Female")
-MaleEmployees <- subset(SalaryData, Gender == "Male")
 
 #Let's compare education level by gender using a bar graph
 GenderEducationPlot <- ggplot(SalaryData, aes(fill=Gender, x=Education.Level)) + 
@@ -68,8 +66,13 @@ YearsExperienceSalaryScatterPlot <- ggplot(SalaryData_no_outliers, aes(x = Years
   geom_smooth(method = "lm", se= FALSE)
 YearsExperienceSalaryScatterPlot
 
-#trying to understand if the two slopes are statistically different from each other
-model <- lm(Salary ~ Gender  * Years.of.Experience, data = SalaryData)
-#do I understand correctly that men make $325.20 more per year of experience than
-#women in that dataset, and that it's not statistically significant (p = 0.241)
-summary(model)
+#We create two subsets, one for each gender
+FemaleEmployees <- subset(SalaryData, Gender == "Female")
+MaleEmployees <- subset(SalaryData, Gender == "Male")
+
+#are experience and salaty correlated? Is the correlation the same for each gender?
+summary(lm(Salary ~ Years.of.Experience, data = FemaleEmployees))
+summary(lm(Salary ~ Years.of.Experience, data = MaleEmployees))
+
+#trying to understand if there is a stastistically significant difference between men and women salaries
+t.test(Salary ~ Gender, SalaryData, paired=FALSE)
