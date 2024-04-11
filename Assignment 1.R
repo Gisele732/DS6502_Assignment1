@@ -43,6 +43,20 @@ GenderEducationPlot <- ggplot(SalaryData, aes(fill=Gender, x=Education.Level)) +
   theme_minimal()
 GenderEducationPlot
 
+# Calculate mean salary
+MeanSalary <- mean(SalaryData$Salary, na.rm = TRUE)
+
+# Create a bar chart showing mean salaries by gender with a line representing overal mean salary
+ggplot(SalaryData, aes(x = Gender, y = Salary, fill = Gender, color = Gender)) +
+  geom_bar(stat = "summary", fun = "mean", width = 0.5) +
+  scale_fill_manual(values = c("#FFB6C1","cadetblue1")) +
+  geom_hline(yintercept = MeanSalary, color = "red", linetype = "dashed", size = 1) +
+  labs(title = "Mean Salary by Gender",
+       x = "Gender",
+       y = "Mean Salary",
+       caption = paste("Mean Salary Overall: $", round(MeanSalary, 2))) +
+  theme_minimal()
+
 #Box plot of salary by education level and gender
 SalaryByGenderBoxPlot <- ggplot(data = SalaryData, aes( x = Education.Level, y = Salary, fill = Gender)) + 
   geom_boxplot() +
